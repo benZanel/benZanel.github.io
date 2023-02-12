@@ -12,6 +12,6 @@ hello git!
 hello nihao!
 hello nihao!
 hello nihao!
+hello nihao!  hot-fix test2
 hello nihao!
-hello nihao!
-hello nihao! hot-fix test
+hello nihao! 
